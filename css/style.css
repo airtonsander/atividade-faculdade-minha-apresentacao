@@ -19,7 +19,7 @@
 }
 
 /* Style do menu superior  da linha 20 ate a linha 44*/
-/* header {
+header {
     background-color: #333333;
     color: #ffffff;
     text-align: center;
@@ -43,8 +43,7 @@ nav ul li {
 nav a {
     color: #ffffff;
     text-decoration: none;
-} */
-
+}
 
 /* Style das informações escritas section descrita la no html */
 section {
